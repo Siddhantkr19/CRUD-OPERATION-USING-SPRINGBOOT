@@ -7,13 +7,20 @@ individual userName .
 Features:
 
 RESTful API endpoints for all CRUD functionalities
+
 MongoDB integration for seamless data storage
+
 Error handling and validation for stable performance
+
 
 
 Tech Stack:
 
 Java
+
 Spring Boot
+
 MongoDB
+
 Maven
+
